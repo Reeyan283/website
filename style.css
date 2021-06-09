@@ -19,8 +19,12 @@ html, body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
-img {
-    margin: 30px 60px;
+.description {
+    margin: 10px 60px;
+    text-align: left;
+}
+.contacts {
+    margin: 10px 20px;
+    text-align: center;
 }
